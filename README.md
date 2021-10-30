@@ -10,11 +10,7 @@ source venv/bin/activate
 Faça download do projeto:
 
 ```sh
-
-```
-Execute:
-```sh
-cd teste
+git clone https://github.com/caikesilva/clientes.git
 ```
 Instale as dependencias:
 ```sh
